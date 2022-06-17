@@ -4099,6 +4099,7 @@ input, select, textarea {
 		#footer {
 			margin-top: -4.75em;
 			padding-top: 4.75em;
+			text-align: center;
 		}
 
 			#footer .inner {
@@ -4128,6 +4129,7 @@ input, select, textarea {
 		#footer {
 			margin-top: -2.5em;
 			padding-top: 2.5em;
+			text-align: center;
 		}
 
 			#footer .inner {
