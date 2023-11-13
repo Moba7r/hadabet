@@ -4223,11 +4223,12 @@ body.is-preload #banner p {
 	margin: 4em 0 2em 0;
 	padding: 2em 0 0 0;
 	width: 100%;
+	text-align: center;
 }
 
 #footer .inner .copyright li {
 	border-left: solid 2px rgba(255, 255, 255, 0.125);
-	color: rgba(255, 255, 255, 0.35);
+	/* color: rgba(255, 255, 255, 0.35); */
 	display: inline-block;
 	font-size: 0.9em;
 	line-height: 1;
@@ -4244,6 +4245,7 @@ body.is-preload #banner p {
 
 #footer .inner .copyright li a {
 	color: inherit;
+	color: black;
 }
 
 @media screen and (max-width: 1280px) {
@@ -4286,6 +4288,7 @@ body.is-preload #banner p {
 
 	#footer .inner .copyright {
 		margin: 4em 0 2em 0;
+		text-align: center;
 	}
 
 }
@@ -4307,6 +4310,7 @@ body.is-preload #banner p {
 
 	#footer .inner .contact {
 		margin: 0 0 3em 0;
+		
 	}
 
 }
